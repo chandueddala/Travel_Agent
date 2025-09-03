@@ -108,8 +108,6 @@ Travel_Agent/
   "packing_list": "Essentials: Passport/ID, wallet, phone, charger, meds.\nClothing: 3–5 outfits, comfy walking shoes, light jacket.\nToiletries: toothbrush, toothpaste, sunscreen, deodorant.\nDestination-specific for Tokyo: small umbrella, reusable water bottle."
 }
 
-
-Actual After the Application Build : 
  {
   "destination": "Tokyo, Japan",
   "days": 5,
