@@ -328,9 +328,3 @@ Travel_Agent/
 * Cache API results to reduce requests.
 
 ---
-
-✨ Built with ❤️ using free + optional trial APIs to make trip planning smarter and more robust.
-
----
-
-Would you also like me to give you a **ready-made `.gitignore` file** content to paste, so you don’t accidentally commit `.env` or `.venv`?
